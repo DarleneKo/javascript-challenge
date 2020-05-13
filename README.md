@@ -1,3 +1,3 @@
 # javascript-challenge
 
-<img src=static/images/Snapshot.png >|
+<img src=static/images/Snapshot.png>|
