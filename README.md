@@ -1,4 +1,3 @@
 # javascript-challenge
 
-
-![](Screenshot.png)
+![](Screenshot.PNG)
